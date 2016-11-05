@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\battingStatis\battingStatis\bin\Debug\battingStatis.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\battingStatis\battingStatis\obj\Debug\battingStatis.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\battingStatis\battingStatis\bin\Debug\battingStatis.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\battingStatis\battingStatis\bin\Debug\battingStatis.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\battingStatis\battingStatis\obj\Debug\battingStatis.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\battingStatis\battingStatis\obj\Debug\battingStatis.pdb
